@@ -12,5 +12,5 @@
     
 include:
   - board: seeeduino_xiao_ble
-    shield: nice_view
+    shield: nice_nano_v2
 
