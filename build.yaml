@@ -19,9 +19,14 @@
 ---
 include:
   - board: bt60_v1
+    artifact-name: bt60_v1_build
   - board: bt65_v1
+    artifact-name: bt65_v1_build
   - board: seeeduino_xiao
     shield: nice_view
+    artifact-name: seeeduino_xiao_nice_view_build
   - board: seeeduino_xiao_ble
     shield: nice_view
+    artifact-name: seeeduino_xiao_ble_nice_view_build
   - board: bt65_v1
+    artifact-name: bt65_v1_build_2
