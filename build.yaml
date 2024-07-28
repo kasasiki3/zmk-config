@@ -19,17 +19,17 @@
 ---
 include:
   - board: bt60_v1
-include:
-  - board: bt60_v1
-include:
-  - board: bt65_v1
-include:
-  - board: bt65_v1
+#include:
+#  - board: bt60_v1
+#include:
+#  - board: bt65_v1
+#include:
+#  - board: bt65_v1
 include:
   - board: seeeduino_xiao
     shield: nice_view
-include:
-  - board: seeeduino_xiao_ble
-    shield: nice_view
-include:
-  - board: bt65_v1
+#include:
+#  - board: seeeduino_xiao_ble
+#    shield: nice_view
+#include:
+#  - board: bt65_v1
